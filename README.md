@@ -8,5 +8,4 @@ The citation of this paper is as follows.
 &emsp;&emsp;author={Fang, Weiwei and Zhuo, Wenhao and Song, Youyi and Yan, Jingwen and Zhou, Teng and Qin, Jing},  
 &emsp;&emsp;journal={Neurocomputing},  
 &emsp;&emsp;year={2022},  
-&emsp;&emsp;publisher={Elsevier}  
-&emsp;}
+&emsp;&emsp;publisher={Elsevier}}
